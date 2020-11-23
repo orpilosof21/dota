@@ -1,0 +1,24 @@
+.app {
+  min-height: 100vh;
+  background: lightblue;
+  align-items: center;
+}
+
+.match {
+  background-color: aliceblue;
+  align-items: center;
+}
+
+.team {
+  border: 5cm;
+  border-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.hero {
+  border: 5cm;
+  border-color: black;
+}
